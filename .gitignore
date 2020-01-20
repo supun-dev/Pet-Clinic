@@ -144,3 +144,10 @@ Pet-Clinic/HELP.md
 Pet-Clinic/mvnw
 Pet-Clinic/mvnw.cmd
 Pet-Clinic/.mvn/wrapper/MavenWrapperDownloader.java
+/Pet-Clinic/target/
+/Pet-Clinic/bin/target/
+/Pet-Clinic/pet-clinic-data/target/
+Pet-Clinic/bin/.mvn/wrapper/maven-wrapper.properties
+Pet-Clinic/bin/HELP.md
+Pet-Clinic/bin/mvnw
+Pet-Clinic/bin/mvnw.cmd

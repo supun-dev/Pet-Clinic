@@ -1,4 +1,4 @@
-package org.springframework.PetClinic.model;
+package org.springframework.PetClinic;
 
 import lombok.Data;
 
